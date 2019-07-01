@@ -6,6 +6,8 @@
 
 ``` bash
 # install dependencies
+$ npm install netlify-cli -g
+$ netlify deploy
 $ npm run install
 
 # serve with hot reload at localhost:3000
